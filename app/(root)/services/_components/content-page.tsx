@@ -21,21 +21,21 @@ export const Content = () => {
     >
       <TitlePage title={["S", "e", "r", "v", "i", "c", "i", "o", "s"]} />
       <TitleParallax
-        imageWallpaper="/images/wallpaper-services.webp"
+        imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423144/SERMED/wallpaper-services_pxkq0r.webp"
         subTitle="01"
         title="Laboratorios"
       >
         <Services data={dataServicesLaboratory} />
       </TitleParallax>
       <TitleParallax
-        imageWallpaper="/images/slider-1.webp"
+        imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423274/SERMED/slider-1_gzgfnw.webp"
         subTitle="02"
         title="Ultrasonidos"
       >
         <Services data={dataServicesUltrasound} />
       </TitleParallax>
       <TitleParallax
-        imageWallpaper="/images/wallpaper-x-ray.webp"
+        imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423254/SERMED/wallpaper-x-ray_flmvei.webp"
         subTitle="03"
         title="Radiografías"
       >

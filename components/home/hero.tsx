@@ -69,7 +69,8 @@ const CenterImage = () => {
         clipPath,
         backgroundSize,
         opacity,
-        backgroundImage: "url(/images/wallpaper-home.webp)",
+        backgroundImage:
+          "url(https://res.cloudinary.com/jotredev/image/upload/v1725423093/SERMED/wallpaper-home_evo5yk.webp)",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
       }}

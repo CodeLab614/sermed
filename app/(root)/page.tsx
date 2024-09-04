@@ -15,7 +15,7 @@ export default function Home() {
       </section>
       <section>
         <TitleParallax
-          imageWallpaper="/images/wallpaper-testimonials.webp"
+          imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423235/SERMED/wallpaper-testimonials_jn1u2u.webp"
           subTitle="Testimonios"
           title="Lo que dicen nuestros clientes"
         >
@@ -24,7 +24,7 @@ export default function Home() {
       </section>
       <section>
         <TitleParallax
-          imageWallpaper="/images/wallpaper-home.webp"
+          imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423093/SERMED/wallpaper-home_evo5yk.webp"
           subTitle="Contacto"
           title="Contactanos"
         >

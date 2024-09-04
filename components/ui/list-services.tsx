@@ -10,10 +10,10 @@ export function ListServices() {
   const router = useRouter();
 
   const images = [
-    "/images/slider-1.webp",
-    "/images/slider-2.webp",
-    "/images/slider-3.webp",
-    "/images/slider-4.webp",
+    "https://res.cloudinary.com/jotredev/image/upload/v1725423274/SERMED/slider-1_gzgfnw.webp",
+    "https://res.cloudinary.com/jotredev/image/upload/v1725423337/SERMED/slider-2_no8kqy.webp",
+    "https://res.cloudinary.com/jotredev/image/upload/v1725423353/SERMED/slider-3_up57a1.webp",
+    "https://res.cloudinary.com/jotredev/image/upload/v1725423370/SERMED/slider-4_c0tbbc.webp",
   ];
   return (
     <ImagesSlider className="h-[100dvh] bg-black" images={images}>
