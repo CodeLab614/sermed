@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import { cn } from "@/lib/utils";
 
-import { variants, variantsHover } from "@/anmations/button";
+import { variants, variantsHover } from "@/animation/button";
 import { constant } from "@/constants";
 
 export interface ButtonProps

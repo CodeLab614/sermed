@@ -13,7 +13,7 @@ const ContactData = {
   phone: "+526566278671",
   website: "https://www.cermed.ro",
   imageSrc:
-    "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg",
+    "https://img.freepik.com/foto-gratis/hermosa-joven-doctora-mirando-camara-oficina_1301-7807.jpg?t=st=1725418528~exp=1725422128~hmac=93d901921d79de0c2ede73152c5f85cd87179d16cff8733ffa6b83baca1292d6&w=740",
 };
 
 export const Contact = () => {

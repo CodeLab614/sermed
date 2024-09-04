@@ -36,7 +36,10 @@ const AboutPage = () => {
       content: (
         <div>
           <video className="w-full" controls>
-            <source src="/videos/instalaciones.mp4" type="video/mp4" />
+            <source
+              src="https://res.cloudinary.com/jotredev/video/upload/v1725422207/SERMED/videos/instalaciones_cwspfc.mp4"
+              type="video/mp4"
+            />
           </video>
         </div>
       ),

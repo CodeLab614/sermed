@@ -42,8 +42,8 @@ export const ContactUs = () => {
           >
             <div className="rounded-lg overflow-hidden">
               <Image
-                src="/images/disturbing.jpeg"
-                alt="Medical team"
+                src="https://res.cloudinary.com/jotredev/image/upload/v1725418342/SERMED/disturbing_apayoq.jpg"
+                alt="SERMED"
                 width={600}
                 height={600}
                 className="object-cover w-full h-auto"
