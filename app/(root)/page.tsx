@@ -15,7 +15,7 @@ export default function Home() {
       </section>
       <section>
         <TitleParallax
-          imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423235/SERMED/wallpaper-testimonials_jn1u2u.webp"
+          imageWallpaper="https://img.freepik.com/foto-gratis/estetoscopio-sobre-carpeta_23-2147652325.jpg?t=st=1726755862~exp=1726759462~hmac=3dd23cc6d0c1d6cf726d92635e0d35a24a8c75db4820d7d23c4e5239570b61a6&w=1380"
           subTitle="Testimonios"
           title="Lo que dicen nuestros clientes"
         >

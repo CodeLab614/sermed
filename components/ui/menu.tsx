@@ -167,7 +167,7 @@ export const Menu = () => {
               >
                 <p className="link-social-media relative">
                   <i className="fi fi-brands-whatsapp mr-2"></i>
-                  +52 656 6 27 86 71
+                  656 6 27 86 71
                 </p>
               </div>
             </div>

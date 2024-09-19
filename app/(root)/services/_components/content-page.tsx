@@ -24,9 +24,12 @@ export const Content = () => {
         imageWallpaper="https://img.freepik.com/foto-gratis/autenticacion-pie-medico-elegantes-iconos_1134-904.jpg?t=st=1726725906~exp=1726729506~hmac=eb0520fc2a3d41a199f47aa3960d6f46a15687429191c5f9eeb1cd39be81641a&w=2000"
         subTitle="SERMED fue creado con el propósito de brindar atención médica de calidad y de manera oportuna a nuestra comunidad, ofreciendo un trato calido y humano a todos nuestros pacientes."
         title="Servicios de consulta"
-      >
-        <Services data={dataServicesLaboratory} />
-      </TitleParallax>
+      />
+      <TitleParallax
+        imageWallpaper="https://img.freepik.com/foto-gratis/primer-plano-kit-agua-salada_53876-33648.jpg?t=st=1726727009~exp=1726730609~hmac=11fb9a4b45fc9b950a4b7685c4084b3cf71993be7537cecfa0f096b1c278bb4c&w=2000"
+        subTitle="Contamos con aplicacion de sueros de Inmuno boost, energy blast, detox, beauty boost entre otros."
+        title="Aplicación de sueros"
+      />
       <TitleParallax
         imageWallpaper="https://img.freepik.com/foto-gratis/cerca-escritorio-laboratorio-equipo-investigacion-profesional-bandeja-vacutainer-sangre-examen-microscopico-micro-pipeta-microscopio-herramientas-desarrollo-ciencia_482257-26481.jpg?t=st=1726704882~exp=1726708482~hmac=c6682cdebc7ac1480a5001e4ec974ed4a0179991918b9c321bce764923b12fba&w=2000"
         subTitle="02"

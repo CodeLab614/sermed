@@ -10,8 +10,6 @@ const ContactData = {
   place:
     "Plaza IZA, C. Valle del Sol 1961-Local 2, Partido Senecú, 32469 Juárez, Chih.",
   map: "https://www.google.com/maps/place/SERMED+Consultorio+M%C3%A9dico+24+horas/@31.6942547,-106.3763022,17z/data=!3m1!4b1!4m6!3m5!1s0x86e75d26b49267eb:0x5256f9921d237296!8m2!3d31.6942502!4d-106.3737273!16s%2Fg%2F11h8jn3g9q?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D",
-  phone: "+526566278671",
-  website: "https://www.cermed.ro",
   imageSrc:
     "https://img.freepik.com/foto-gratis/hermosa-joven-doctora-mirando-camara-oficina_1301-7807.jpg?t=st=1725418528~exp=1725422128~hmac=93d901921d79de0c2ede73152c5f85cd87179d16cff8733ffa6b83baca1292d6&w=740",
 };
@@ -71,10 +69,10 @@ export const Contact = () => {
               >
                 <i className="fi fi-brands-whatsapp mr-2"></i>
                 <Link
-                  href={`https://wa.me/${ContactData.phone}?text=!Hola,%20me%20gustaría%20saber%20más%20sobre%20sus%20servicios!`}
+                  href={`https://wa.me/+526566278671?text=!Hola,%20me%20gustaría%20saber%20más%20sobre%20sus%20servicios!`}
                   className="text-primary hover:underline transition-transform transform hover:scale-105 duration-500 ease-in-out"
                 >
-                  {ContactData.phone}
+                  656 6 27 86 71
                 </Link>
               </motion.p>
             </div>

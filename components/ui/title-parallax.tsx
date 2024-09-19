@@ -4,7 +4,7 @@ import React, { ReactNode, useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
 interface TitleParallaxProps {
-  children: ReactNode;
+  children?: ReactNode;
   subTitle: string;
   title: string;
   imageWallpaper: string;

@@ -89,13 +89,6 @@ export const dataServicesRadiografias = [
   },
   {
     category: "Radiografías",
-    title: "Rodilla",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423536/SERMED/radiografia-rodilla_lwh2dh.webp",
-    description:
-      "Una radiografía de rodilla es un estudio de imagen no invasivo que utiliza rayos X para capturar imágenes detalladas de los huesos y articulaciones de la rodilla. Este examen es comúnmente realizado para diagnosticar fracturas, luxaciones, artritis, y otras afecciones óseas o articulares.",
-  },
-  {
-    category: "Radiografías",
     title: "Tobillo",
     src: "https://img.freepik.com/foto-gratis/hombre-cirugia-cuerpo-diagnostico-paciente_1172-441.jpg?t=st=1726726571~exp=1726730171~hmac=1bdc022eb40653d0ec0b9cba2e056f1ef14c51e5cf81913dbad007b7f3ed75c5&w=2000",
     description:
