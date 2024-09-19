@@ -1,3 +1,8 @@
+export const dataServicesConsulting = [
+  {
+    category: "Consulta médica",
+  },
+];
 export const dataServicesLaboratory = [
   {
     category: "Laboratorio",
@@ -64,30 +69,23 @@ export const dataServicesRadiografias = [
   {
     category: "Radiografías",
     title: "Torax",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423515/SERMED/radiografia-torax_ustlpf.webp",
+    src: "https://img.freepik.com/foto-gratis/radiografia-pecho-mujer_1101-452.jpg?t=st=1726726588~exp=1726730188~hmac=ed3e6b729efd41285619ad3a9f7170ceef36c5b668d2bae4dff7844d2ee59a48&w=1480",
     description:
       "El ultrasonido abdominal es un estudio no invasivo que utiliza ondas sonoras para crear imágenes detalladas de los órganos internos en el abdomen, como el hígado, riñones, páncreas y vesícula biliar. Este examen es clave para diagnosticar y monitorear diversas condiciones, como cálculos biliares, enfermedades hepáticas o anomalías renales. Nuestro servicio deultrasonido abdominal te ofrece imágenes claras y precisas para un diagnóstico confiable.",
   },
   {
     category: "Radiografías",
     title: "Abdomen",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423412/SERMED/radiografia-abdomen_iyvolk.webp",
+    src: "https://img.freepik.com/foto-gratis/rayos-x-columna-vertebral_23-2148108944.jpg?t=st=1726726607~exp=1726730207~hmac=58379b31361d013252d62bdbae6bfe78715f5e181f9f333478f4f3a6d87027a0&w=1380",
     description:
       "La radiografía de abdomen es un examen de imagen que utiliza rayos X para visualizar los órganos y estructuras dentro del abdomen, incluyendo el estómago, intestinos, hígado y riñones. Este estudio es útil para diagnosticar condiciones como obstrucciones intestinales, cálculos renales, y problemas abdominales generales. Nuestro servicio de radiografía de abdomen proporciona imágenes nítidas y detalladas para una evaluación precisa y un diagnóstico eficiente.",
   },
   {
     category: "Radiografías",
     title: "Cráneo",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423449/SERMED/radiografia-craneo_vamh4t.webp",
+    src: "https://img.freepik.com/foto-gratis/diagnostico-cientifico-cirugia-clinica-columna-vertebral_1172-219.jpg?t=st=1726726541~exp=1726730141~hmac=20acea960bc7e5be1d105abfe5e3a93801c9ec506ecc1d81220f095e6b8e88aa&w=1480",
     description:
       "La radiografía de cráneo es un examen de imagen que utiliza rayos X para obtener una vista detallada de los huesos del cráneo y la estructura facial. Este estudio es crucial para diagnosticar fracturas, deformidades, o anomalías en los huesos del cráneo y la cara, así como para evaluar lesiones traumáticas y condiciones neurológicas. Nuestro servicio de radiografía de cráneo te ofrece imágenes precisas y claras para una evaluación y diagnóstico efectivos.",
-  },
-  {
-    category: "Radiografías",
-    title: "Muñeca",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423498/SERMED/radiografia-mano_xcxeph.webp",
-    description:
-      "La radiografía de muñeca es un examen de imagen que utiliza rayos X para examinar los huesos y articulaciones de la muñeca. Este estudio es útil para diagnosticar fracturas, esguinces, dislocaciones y otras lesiones o anomalías en la muñeca. Nuestro servicio de radiografía de muñeca ofrece imágenes precisas y detalladas, esenciales para una evaluación adecuada y un tratamiento efectivo de las afecciones de la muñeca.",
   },
   {
     category: "Radiografías",
@@ -99,7 +97,7 @@ export const dataServicesRadiografias = [
   {
     category: "Radiografías",
     title: "Tobillo",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423555/SERMED/radiografia-pie_oji3me.webp",
+    src: "https://img.freepik.com/foto-gratis/hombre-cirugia-cuerpo-diagnostico-paciente_1172-441.jpg?t=st=1726726571~exp=1726730171~hmac=1bdc022eb40653d0ec0b9cba2e056f1ef14c51e5cf81913dbad007b7f3ed75c5&w=2000",
     description:
       "Una radiografía de tobillo es un estudio de imagen no invasivo que utiliza rayos X para obtener imágenes detalladas de los huesos y la articulación del tobillo. Este examen se realiza para diagnosticar fracturas, esguinces, artritis, y otras lesiones o afecciones que afectan el tobillo.",
   },
