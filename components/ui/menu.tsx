@@ -70,15 +70,15 @@ export const Menu = () => {
             <Image
               src="/images/logo.png"
               alt="CERMED"
-              width={50}
-              height={50}
-              className="object-contain"
+              width={500}
+              height={500}
+              className="object-contain w-10 h-10 xl:w-20 xl:h-20"
             />
           </Link>
         </div>
         <Button
           onClick={toggleMenu}
-          className="font-black text-primary uppercase text-base md:text-base lg:text-base"
+          className="font-black text-primary uppercase text-base md:text-base lg:text-2xl"
         >
           MENU
         </Button>
@@ -93,9 +93,9 @@ export const Menu = () => {
               <Image
                 src="/images/logo.png"
                 alt="CERMED"
-                width={50}
-                height={50}
-                className="object-contain"
+                width={500}
+                height={500}
+                className="object-contain w-10 h-10 xl:w-20 xl:h-20"
               />
             </Link>
           </div>

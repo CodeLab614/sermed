@@ -21,14 +21,14 @@ export const Content = () => {
     >
       <TitlePage title={["S", "e", "r", "v", "i", "c", "i", "o", "s"]} />
       <TitleParallax
-        imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423144/SERMED/wallpaper-services_pxkq0r.webp"
+        imageWallpaper="https://img.freepik.com/foto-gratis/cerca-escritorio-laboratorio-equipo-investigacion-profesional-bandeja-vacutainer-sangre-examen-microscopico-micro-pipeta-microscopio-herramientas-desarrollo-ciencia_482257-26481.jpg?t=st=1726704882~exp=1726708482~hmac=c6682cdebc7ac1480a5001e4ec974ed4a0179991918b9c321bce764923b12fba&w=2000"
         subTitle="01"
         title="Laboratorios"
       >
         <Services data={dataServicesLaboratory} />
       </TitleParallax>
       <TitleParallax
-        imageWallpaper="https://res.cloudinary.com/jotredev/image/upload/v1725423274/SERMED/slider-1_gzgfnw.webp"
+        imageWallpaper="https://img.freepik.com/foto-gratis/escaner-ultrasonido-moderno-clinica_7502-8375.jpg?t=st=1726707334~exp=1726710934~hmac=2bb5de13404ecbccc4d020579eee709bf42a0ac71b2b6ca83208441a0bb23e4b&w=2000"
         subTitle="02"
         title="Ultrasonidos"
       >

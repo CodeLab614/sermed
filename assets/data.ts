@@ -2,35 +2,28 @@ export const dataServicesLaboratory = [
   {
     category: "Laboratorio",
     title: "SMAC",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422909/SERMED/laboratory-smac_lcikhh.webp",
+    src: "https://img.freepik.com/foto-gratis/primer-plano-prueba-tubo-sangre_53876-32023.jpg?t=st=1726705024~exp=1726708624~hmac=600f6dfcb1365bd0330931d32d6f0d34fd446bfa280f412b4f79170fe040df3d&w=2000",
     description:
       "Nuestro servicio de laboratorio SMAC (Análisis Clínico de Múltiples Parámetros en Suero) ofrece un análisis completo de diversos componentes en la sangre, como electrolitos, enzimas y lípidos. Este examen es fundamental para evaluar la función de órganos vitales como el hígado y los riñones, y para detectar posibles alteraciones metabólicas. Con resultados precisos y rápidos, te ayudamos a monitorear tu salud de manera integral.",
   },
   {
     category: "Laboratorio",
     title: "Biometría Hematica",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422793/SERMED/laboratory-biometria-hematica_mszgia.webp",
+    src: "https://img.freepik.com/foto-gratis/vista-cercana-concepto-ciencia-espacio-copia_23-2148623730.jpg?t=st=1726705145~exp=1726708745~hmac=fc7a7993eff99455b53a4cb2a8843c73208edb64259d306039234cffbda6f41a&w=2000",
     description:
       "La biometría hemática es un examen esencial que analiza los diferentes componentes de la sangre, como glóbulos rojos, glóbulos blancos y plaquetas. Este estudio permite detectar y diagnosticar condiciones como anemia, infecciones y trastornos de la coagulación. Con resultados detallados y confiables, nuestro servicio de biometría hemática es clave para un seguimiento completo de tu salud.",
   },
   {
     category: "Laboratorio",
     title: "Perfil Hormonal",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422838/SERMED/laboratory-perfil-hormonal_r85mgi.webp",
+    src: "https://img.freepik.com/foto-gratis/vista-superior-arreglo-dia-mundial-ciencia-espacio-copia_23-2149112640.jpg?t=st=1726705161~exp=1726708761~hmac=61a93817ec603902715c4c7e5d497012ffbb14ef6227b15930fc6c11ec5158cc&w=2000",
     description:
       "El perfil hormonal es un conjunto de pruebas que mide los niveles de diferentes hormonas en tu cuerpo, esenciales para evaluar el funcionamiento del sistema endocrino. Este estudio es clave para diagnosticar trastornos hormonales, problemas de fertilidad, y monitorear el equilibrio hormonal en diversas etapas de la vida. Con nuestro servicio de perfil hormonal, obtendrás resultados precisos que te ayudarán a tomar decisiones informadas sobre tu salud.",
   },
   {
     category: "Laboratorio",
-    title: "Perfil Tiroideo",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422863/SERMED/laboratory-perfil-tiroideo_mijsuy.webp",
-    description:
-      "El perfil tiroideo es un conjunto de pruebas que evalúa el funcionamiento de la glándula tiroides, analizando niveles de hormonas como TSH, T3 y T4. Este examen es fundamental para diagnosticar trastornos como el hipotiroidismo o hipertiroidismo, y para monitorear el tratamiento de estas condiciones. Nuestro servicio de perfil tiroideo te ofrece resultados precisos y confiables, esenciales para el cuidado integral de tu salud.",
-  },
-  {
-    category: "Laboratorio",
     title: "Prueba de Embarazo",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422887/SERMED/laboratory-prueba-embarazo_xjhtp8.webp",
+    src: "https://img.freepik.com/foto-gratis/dispositivo-medicion-temperatura-vista-superior-blanco_179666-609.jpg?t=st=1726705180~exp=1726708780~hmac=1ac87cf054812cb09623babc67b0c48ae32846c1ea55b1f6b3b2f72bcae21f86&w=2000",
     description:
       "La prueba de embarazo es un examen sencillo y rápido que detecta la presencia de la hormona hCG en la sangre o la orina, indicando un posible embarazo. Nuestro servicio garantiza resultados precisos y confidenciales, proporcionando la tranquilidad y la certeza que necesitas en este momento importante de tu vida.",
   },
@@ -40,37 +33,30 @@ export const dataServicesUltrasound = [
   {
     category: "Ultrasonido",
     title: "Undomen",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423065/SERMED/ultrasonido-undomen_prurdu.webp",
+    src: "https://img.freepik.com/foto-gratis/diagnostico-ultrasonido-estomago-cavidad-abdominal-hombre-vista-cierre-clinica-medico-ejecuta-sensor-ultrasonido-sobre-abdomen-masculino-paciente-diagnostico-organos-internos_657921-869.jpg?t=st=1726707381~exp=1726710981~hmac=03240fbbbf31f74e4d208f7f758f0357e7517aec848fbce611a91cd160dbb437&w=2000",
     description:
       "El ultrasonido abdominal es un estudio no invasivo que utiliza ondas sonoras para crear imágenes detalladas de los órganos internos en el abdomen, como el hígado, riñones, páncreas y vesícula biliar. Este examen es clave para diagnosticar y monitorear diversas condiciones, como cálculos biliares, enfermedades hepáticas o anomalías renales. Nuestro servicio deultrasonido abdominal te ofrece imágenes claras y precisas para un diagnóstico confiable.",
   },
   {
     category: "Ultrasonido",
-    title: "Pélvico",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423009/SERMED/ultrasonido-pelvico_z3gpek.webp",
+    title: "Rodilla",
+    src: "https://img.freepik.com/foto-gratis/mujer-que-realiza-examen-exploracion-ultrasonido-rodilla-clinica_7502-8388.jpg?t=st=1726707403~exp=1726711003~hmac=07e11faa82c7ad631fad1c385628d272d36003e41de44d2f88c9e9c80df0397a&w=2000",
     description:
       "El ultrasonido pélvico es un estudio no invasivo que permite visualizar los órganos y estructuras dentro de la pelvis, como el útero, ovarios y vejiga en mujeres, y la próstata en hombres. Este examen es fundamental para detectar y monitorear condiciones como quistes ováricos, fibromas, o problemas de fertilidad. Nuestro servicio de ultrasonido pélvico te ofrece resultados detallados y precisos para un cuidado óptimo de tu salud pélvica.",
   },
   {
     category: "Ultrasonido",
-    title: "Obstretico",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422973/SERMED/ultrasonido-obstretico_gk84a0.webp",
+    title: "Tiroides",
+    src: "https://img.freepik.com/foto-gratis/primer-plano-mujer-joven-que-examina-cuello-medico-usando-escaner-ultrasonido-clinica-moderna_657921-843.jpg?t=st=1726707494~exp=1726711094~hmac=4193a590ff06d15884cca4b7a894cb28a8a8ee6a0f2906b1e706b435d8a80592&w=2000",
     description:
       "El ultrasonido obstétrico es una herramienta esencial durante el embarazo, utilizada para monitorear el desarrollo y bienestar del bebé. Este estudio permite visualizar al feto, evaluar su crecimiento, determinar la edad gestacional y detectar posibles anomalías. Nuestro servicio de ultrasonido obstétrico ofrece imágenes detalladas y precisas, brindando tranquilidad y seguridad a lo largo de todo el embarazo.",
   },
   {
     category: "Ultrasonido",
-    title: "Renal",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725423033/SERMED/ultrasonido-renal_cjzwhk.webp",
+    title: "Obstretico",
+    src: "https://img.freepik.com/foto-gratis/doctor-realizando-ecografia-su-paciente-embarazada_7502-5429.jpg?t=st=1726707495~exp=1726711095~hmac=69c1f780238a054bc3be5fad92f0278894184ba5c780a6b8cc77b598b322c256&w=2000",
     description:
       "El ultrasonido renal es un estudio no invasivo que utiliza ondas sonoras para obtener imágenes detalladas de los riñones y la vejiga. Este examen es clave para diagnosticar condiciones como cálculos renales, quistes, infecciones, o anomalías estructurales. Nuestro servicio de ultrasonido renal te proporciona resultados precisos y confiables, esenciales para el diagnóstico y tratamiento adecuado de enfermedades renales.",
-  },
-  {
-    category: "Ultrasonido",
-    title: "Mamario",
-    src: "https://res.cloudinary.com/jotredev/image/upload/v1725422940/SERMED/ultrasonido-mamario_oszm2j.webp",
-    description:
-      "El ultrasonido mamario es un examen no invasivo que utiliza ondas sonoras para crear imágenes detalladas de los tejidos de la mama. Este estudio es esencial para evaluar y diagnosticar anomalías como quistes, nódulos o tumores, así como para complementar estudios mamográficos. Nuestro servicio de ultrasonido mamario proporciona resultados claros y precisos, apoyando la detección temprana y el manejo efectivo de la salud mamaria.",
   },
 ];
 
