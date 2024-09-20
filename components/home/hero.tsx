@@ -54,7 +54,7 @@ const CenterImage = () => {
   const backgroundSize = useTransform(
     scrollY,
     [0, SECTION_HEIGHT + 500],
-    ["170%", "100%"]
+    ["160%", "100%"]
   );
   const opacity = useTransform(
     scrollY,
@@ -69,8 +69,7 @@ const CenterImage = () => {
         clipPath,
         backgroundSize,
         opacity,
-        backgroundImage:
-          "url(https://res.cloudinary.com/jotredev/image/upload/v1725423093/SERMED/wallpaper-home_evo5yk.webp)",
+        backgroundImage: "url(/images/sermed-letras.jpg)",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
       }}
