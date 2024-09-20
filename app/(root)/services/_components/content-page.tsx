@@ -73,7 +73,7 @@ export const Content = () => {
             US de abdomen, superior e inferior
           </li>
           <li className="text-center text-lg">
-            Us de partes blandas de rodilla, hombro.
+            US de partes blandas de rodilla, hombro.
           </li>
           <li className="text-center text-lg"> US renal</li>
           <li className="text-center text-lg"> US hepatobiliar </li>
@@ -93,9 +93,9 @@ export const Content = () => {
           className="space-y-5 mb-10"
         >
           <li className="text-center text-lg">RX de abdomen, tórax</li>
-          <li className="text-center text-lg">Rx de cráneo</li>
-          <li className="text-center text-lg"> Rx de extremidades</li>
-          <li className="text-center text-lg">Rx columna</li>
+          <li className="text-center text-lg">RX de cráneo</li>
+          <li className="text-center text-lg"> RX de extremidades</li>
+          <li className="text-center text-lg">RX columna</li>
           <li className="text-center text-lg">Y mucho más...</li>
         </motion.ul>
       </TitleParallax>

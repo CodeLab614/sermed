@@ -54,7 +54,7 @@ const CenterImage = () => {
   const backgroundSize = useTransform(
     scrollY,
     [0, SECTION_HEIGHT + 500],
-    ["160%", "100%"]
+    ["150%", "100%"]
   );
   const opacity = useTransform(
     scrollY,
@@ -70,7 +70,7 @@ const CenterImage = () => {
         backgroundSize,
         opacity,
         backgroundImage: "url(/images/sermed-letras.jpg)",
-        backgroundPosition: "center",
+        backgroundPosition: "center center",
         backgroundRepeat: "no-repeat",
       }}
     />
