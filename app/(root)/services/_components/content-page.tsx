@@ -32,8 +32,8 @@ export const Content = () => {
         title="Aplicación de sueros"
       />
       <TitleParallax
-        imageWallpaper="https://img.freepik.com/foto-gratis/cerca-escritorio-laboratorio-equipo-investigacion-profesional-bandeja-vacutainer-sangre-examen-microscopico-micro-pipeta-microscopio-herramientas-desarrollo-ciencia_482257-26481.jpg?t=st=1726704882~exp=1726708482~hmac=c6682cdebc7ac1480a5001e4ec974ed4a0179991918b9c321bce764923b12fba&w=2000"
-        subTitle="02"
+        imageWallpaper="/images/bg-laboratorios.jpg"
+        subTitle="01"
         title="Laboratorios"
       >
         <Services data={dataServicesLaboratory} />
@@ -58,8 +58,8 @@ export const Content = () => {
         </motion.ul>
       </TitleParallax>
       <TitleParallax
-        imageWallpaper="https://img.freepik.com/foto-gratis/escaner-ultrasonido-moderno-clinica_7502-8375.jpg?t=st=1726707334~exp=1726710934~hmac=2bb5de13404ecbccc4d020579eee709bf42a0ac71b2b6ca83208441a0bb23e4b&w=2000"
-        subTitle="03"
+        imageWallpaper="/images/bg-ultrasonidos.jpg"
+        subTitle="02"
         title="Ultrasonidos"
       >
         <Services data={dataServicesUltrasound} />
@@ -81,8 +81,8 @@ export const Content = () => {
         </motion.ul>
       </TitleParallax>
       <TitleParallax
-        imageWallpaper="https://img.freepik.com/foto-gratis/medico-pelicula-rayos-x-paciente_53876-14350.jpg?t=st=1726725972~exp=1726729572~hmac=9338ecbae7989344dd4a19a4ba26671e51b7b88108f7572eae539584f1762411&w=2000"
-        subTitle="04"
+        imageWallpaper="/images/bg-radiografias.jpg"
+        subTitle="03"
         title="Radiografías"
       >
         <Services data={dataServicesRadiografias} />

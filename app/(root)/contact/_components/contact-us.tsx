@@ -42,7 +42,7 @@ export const ContactUs = () => {
           >
             <div className="rounded-lg overflow-hidden">
               <Image
-                src="https://res.cloudinary.com/jotredev/image/upload/v1725418342/SERMED/disturbing_apayoq.jpg"
+                src="https://img.freepik.com/foto-gratis/primer-plano-mujer-negocios-que-usa-telefono-inteligente-mensajes-texto-oficina_637285-5436.jpg?t=st=1726933249~exp=1726936849~hmac=684bc294a2c053636c84306be4c4631fb5a41bf0641b0f7c95eb16855517e483&w=1380"
                 alt="SERMED"
                 width={600}
                 height={600}
