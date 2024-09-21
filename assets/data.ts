@@ -45,7 +45,7 @@ export const dataServicesUltrasound = [
   {
     category: "Ultrasonido",
     title: "Rodilla",
-    src: "https://img.freepik.com/foto-gratis/mujer-que-realiza-examen-exploracion-ultrasonido-rodilla-clinica_7502-8388.jpg?t=st=1726707403~exp=1726711003~hmac=07e11faa82c7ad631fad1c385628d272d36003e41de44d2f88c9e9c80df0397a&w=2000",
+    src: "/images/ultrasonido-rodilla.jpg",
     description:
       "El ultrasonido de rodilla es un examen radiológico que permite visualizar los componentes de la rodilla, como los músculos, tendones, ligamentos, articulaciones, meniscos, cartílago y hueso.",
   },
